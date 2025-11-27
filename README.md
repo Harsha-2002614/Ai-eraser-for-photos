@@ -288,4 +288,3 @@ This project was created for educational and portfolio purposes.
 
 ---
 
-**Built with ❤️ for AI-powered image editing**
